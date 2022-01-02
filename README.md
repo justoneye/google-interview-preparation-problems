@@ -15,7 +15,7 @@ Tenga en cuenta que esta es una pequeña parte de todo el viaje. No contiene:
 - Materiales de estudio. Usted y el entrevistador deben tener un lenguaje común para comunicarse. Esto significa que debe tener una buena comprensión de la terminología fundamental de informática.
 - Proceso de pensamiento. Durante la entrevista, debe explicar su proceso de pensamiento y abordar los problemas de cierta manera. Para comprender esta parte, le recomiendo que consulte "[Cómo descifrar la entrevista de codificación](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)".
 - Es posible que algunas de las soluciones del repositorio no sean las más óptimas. No dude en abrir un PR con una versión alternativa.
-- ** Estos no son problemas que tuve en mis entrevistas **. Estos son ejemplos de problemas de [leetcode](https://leetcode.com), [geeksforgeeks](https://www.geeksforgeeks.org/), que tienen una complejidad similar a la que obtendría en sus entrevistas.
+- **Estos no son problemas que tuve en mis entrevistas**. Estos son ejemplos de problemas de [leetcode](https://leetcode.com), [geeksforgeeks](https://www.geeksforgeeks.org/), que tienen una complejidad similar a la que obtendría en sus entrevistas.
 
 ## Licencia
 
